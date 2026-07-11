@@ -1,5 +1,5 @@
 {
-    "name": "Mischief.MDV.Editor",
+    "name": "MarkdownViewer.Editor",
     "rootNamespace": "MG.MDV",
     "references": [],
     "includePlatforms": [
