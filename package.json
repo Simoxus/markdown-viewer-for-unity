@@ -1,7 +1,7 @@
 {
-  "name": "com.mischief.markdownviewer",
-  "version": "1.2.4",
-  "displayName": "Unity Markdown Viewer",
+  "name": "com.gwaredd.markdownviewer",
+  "version": "1.2.5",
+  "displayName": "Markdown Viewer",
   "description": "Editor inspector for markdown files",
   "unity": "2018.4",
   "author": {
@@ -11,6 +11,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gwaredd/UnityMarkdownViewer.git"
+    "url": "https://github.com/Simoxus/markdown-viewer-for-unity.git"
   }
 }
